@@ -16,7 +16,7 @@ let fruit = 'Apple'; // declarando / asignando
 fruit = 'Kiwi'; // reasignando
 console.log(fruit);
 
-let fruit = 'Banana';
+let frui = 'Banana';
 console.log(fruit); 
 
 //const
